@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @fitzyeris
-- 👀 I’m interested in comp. sci, particulary UI design and problem solving.
-- 🌱 I’m currently learning HTML/JS/CSS for application building within a node.js environment. Also bulking up my python and C skills.
-- 💞️ I’m looking to collaborate on AI projects, app development, and more!
+### 👋 Hello and welcome to the lab :)
+     I am @fitzyeris and this is the collection of all my wonderful code.
+     All of this is serves to document my growth process as a self-taught, over ambiitous coder. 
+     LinkedIn: https://www.linkedin.com/in/eris-fitzgerald-6197b5204/
+     CodePen: https://codepen.io/fitzyeris
+     
+##### 👀 I love user design, website development, and animations with JavaScript and other languages. That's what'll mostly be here. 
+
+##### 🌱 I’m currently learning functional programming in Python, some JavaScript, and bulking up on my problem solving skills through LeetCode
+
+##### 💞️ AI projects, robotics, app development, and more are on the way!
 
 
 <!---
